@@ -1,0 +1,13 @@
+/Users/samuel.nechiforel/Documents/workHome/rust/variables/target/release/deps/clang_sys-461e04e23c7ad56d.rmeta: /Users/samuel.nechiforel/.cargo/registry/src/github.com-1ecc6299db9ec823/clang-sys-1.3.3/src/lib.rs /Users/samuel.nechiforel/.cargo/registry/src/github.com-1ecc6299db9ec823/clang-sys-1.3.3/src/support.rs /Users/samuel.nechiforel/.cargo/registry/src/github.com-1ecc6299db9ec823/clang-sys-1.3.3/src/link.rs /Users/samuel.nechiforel/Documents/workHome/rust/variables/target/release/build/clang-sys-fd11dec1b5191ed2/out/common.rs /Users/samuel.nechiforel/Documents/workHome/rust/variables/target/release/build/clang-sys-fd11dec1b5191ed2/out/dynamic.rs
+
+/Users/samuel.nechiforel/Documents/workHome/rust/variables/target/release/deps/libclang_sys-461e04e23c7ad56d.rlib: /Users/samuel.nechiforel/.cargo/registry/src/github.com-1ecc6299db9ec823/clang-sys-1.3.3/src/lib.rs /Users/samuel.nechiforel/.cargo/registry/src/github.com-1ecc6299db9ec823/clang-sys-1.3.3/src/support.rs /Users/samuel.nechiforel/.cargo/registry/src/github.com-1ecc6299db9ec823/clang-sys-1.3.3/src/link.rs /Users/samuel.nechiforel/Documents/workHome/rust/variables/target/release/build/clang-sys-fd11dec1b5191ed2/out/common.rs /Users/samuel.nechiforel/Documents/workHome/rust/variables/target/release/build/clang-sys-fd11dec1b5191ed2/out/dynamic.rs
+
+/Users/samuel.nechiforel/Documents/workHome/rust/variables/target/release/deps/clang_sys-461e04e23c7ad56d.d: /Users/samuel.nechiforel/.cargo/registry/src/github.com-1ecc6299db9ec823/clang-sys-1.3.3/src/lib.rs /Users/samuel.nechiforel/.cargo/registry/src/github.com-1ecc6299db9ec823/clang-sys-1.3.3/src/support.rs /Users/samuel.nechiforel/.cargo/registry/src/github.com-1ecc6299db9ec823/clang-sys-1.3.3/src/link.rs /Users/samuel.nechiforel/Documents/workHome/rust/variables/target/release/build/clang-sys-fd11dec1b5191ed2/out/common.rs /Users/samuel.nechiforel/Documents/workHome/rust/variables/target/release/build/clang-sys-fd11dec1b5191ed2/out/dynamic.rs
+
+/Users/samuel.nechiforel/.cargo/registry/src/github.com-1ecc6299db9ec823/clang-sys-1.3.3/src/lib.rs:
+/Users/samuel.nechiforel/.cargo/registry/src/github.com-1ecc6299db9ec823/clang-sys-1.3.3/src/support.rs:
+/Users/samuel.nechiforel/.cargo/registry/src/github.com-1ecc6299db9ec823/clang-sys-1.3.3/src/link.rs:
+/Users/samuel.nechiforel/Documents/workHome/rust/variables/target/release/build/clang-sys-fd11dec1b5191ed2/out/common.rs:
+/Users/samuel.nechiforel/Documents/workHome/rust/variables/target/release/build/clang-sys-fd11dec1b5191ed2/out/dynamic.rs:
+
+# env-dep:OUT_DIR=/Users/samuel.nechiforel/Documents/workHome/rust/variables/target/release/build/clang-sys-fd11dec1b5191ed2/out

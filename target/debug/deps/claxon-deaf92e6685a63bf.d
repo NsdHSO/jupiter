@@ -1,0 +1,11 @@
+/Users/samuel.nechiforel/Documents/workHome/rust/variables/target/debug/deps/claxon-deaf92e6685a63bf.rmeta: /Users/samuel.nechiforel/.cargo/registry/src/github.com-1ecc6299db9ec823/claxon-0.4.3/src/lib.rs /Users/samuel.nechiforel/.cargo/registry/src/github.com-1ecc6299db9ec823/claxon-0.4.3/src/crc.rs /Users/samuel.nechiforel/.cargo/registry/src/github.com-1ecc6299db9ec823/claxon-0.4.3/src/error.rs /Users/samuel.nechiforel/.cargo/registry/src/github.com-1ecc6299db9ec823/claxon-0.4.3/src/frame.rs /Users/samuel.nechiforel/.cargo/registry/src/github.com-1ecc6299db9ec823/claxon-0.4.3/src/input.rs /Users/samuel.nechiforel/.cargo/registry/src/github.com-1ecc6299db9ec823/claxon-0.4.3/src/metadata.rs /Users/samuel.nechiforel/.cargo/registry/src/github.com-1ecc6299db9ec823/claxon-0.4.3/src/subframe.rs
+
+/Users/samuel.nechiforel/Documents/workHome/rust/variables/target/debug/deps/claxon-deaf92e6685a63bf.d: /Users/samuel.nechiforel/.cargo/registry/src/github.com-1ecc6299db9ec823/claxon-0.4.3/src/lib.rs /Users/samuel.nechiforel/.cargo/registry/src/github.com-1ecc6299db9ec823/claxon-0.4.3/src/crc.rs /Users/samuel.nechiforel/.cargo/registry/src/github.com-1ecc6299db9ec823/claxon-0.4.3/src/error.rs /Users/samuel.nechiforel/.cargo/registry/src/github.com-1ecc6299db9ec823/claxon-0.4.3/src/frame.rs /Users/samuel.nechiforel/.cargo/registry/src/github.com-1ecc6299db9ec823/claxon-0.4.3/src/input.rs /Users/samuel.nechiforel/.cargo/registry/src/github.com-1ecc6299db9ec823/claxon-0.4.3/src/metadata.rs /Users/samuel.nechiforel/.cargo/registry/src/github.com-1ecc6299db9ec823/claxon-0.4.3/src/subframe.rs
+
+/Users/samuel.nechiforel/.cargo/registry/src/github.com-1ecc6299db9ec823/claxon-0.4.3/src/lib.rs:
+/Users/samuel.nechiforel/.cargo/registry/src/github.com-1ecc6299db9ec823/claxon-0.4.3/src/crc.rs:
+/Users/samuel.nechiforel/.cargo/registry/src/github.com-1ecc6299db9ec823/claxon-0.4.3/src/error.rs:
+/Users/samuel.nechiforel/.cargo/registry/src/github.com-1ecc6299db9ec823/claxon-0.4.3/src/frame.rs:
+/Users/samuel.nechiforel/.cargo/registry/src/github.com-1ecc6299db9ec823/claxon-0.4.3/src/input.rs:
+/Users/samuel.nechiforel/.cargo/registry/src/github.com-1ecc6299db9ec823/claxon-0.4.3/src/metadata.rs:
+/Users/samuel.nechiforel/.cargo/registry/src/github.com-1ecc6299db9ec823/claxon-0.4.3/src/subframe.rs:
