@@ -1,1 +1,1 @@
-/workspace/jupiter/target/debug/libvariables.rlib: /workspace/jupiter/src/lib.rs
+/Users/samuel.nechiforel/Documents/workHome/rust/variables/target/debug/libvariables.rlib: /Users/samuel.nechiforel/Documents/workHome/rust/variables/src/lib.rs

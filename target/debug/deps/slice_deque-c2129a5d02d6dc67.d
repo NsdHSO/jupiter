@@ -1,0 +1,9 @@
+/Users/samuel.nechiforel/Documents/workHome/rust/variables/target/debug/deps/slice_deque-c2129a5d02d6dc67.rmeta: /Users/samuel.nechiforel/.cargo/registry/src/github.com-1ecc6299db9ec823/slice-deque-0.3.0/src/lib.rs /Users/samuel.nechiforel/.cargo/registry/src/github.com-1ecc6299db9ec823/slice-deque-0.3.0/src/macros.rs /Users/samuel.nechiforel/.cargo/registry/src/github.com-1ecc6299db9ec823/slice-deque-0.3.0/src/mirrored/mod.rs /Users/samuel.nechiforel/.cargo/registry/src/github.com-1ecc6299db9ec823/slice-deque-0.3.0/src/mirrored/buffer.rs /Users/samuel.nechiforel/.cargo/registry/src/github.com-1ecc6299db9ec823/slice-deque-0.3.0/src/mirrored/macos.rs
+
+/Users/samuel.nechiforel/Documents/workHome/rust/variables/target/debug/deps/slice_deque-c2129a5d02d6dc67.d: /Users/samuel.nechiforel/.cargo/registry/src/github.com-1ecc6299db9ec823/slice-deque-0.3.0/src/lib.rs /Users/samuel.nechiforel/.cargo/registry/src/github.com-1ecc6299db9ec823/slice-deque-0.3.0/src/macros.rs /Users/samuel.nechiforel/.cargo/registry/src/github.com-1ecc6299db9ec823/slice-deque-0.3.0/src/mirrored/mod.rs /Users/samuel.nechiforel/.cargo/registry/src/github.com-1ecc6299db9ec823/slice-deque-0.3.0/src/mirrored/buffer.rs /Users/samuel.nechiforel/.cargo/registry/src/github.com-1ecc6299db9ec823/slice-deque-0.3.0/src/mirrored/macos.rs
+
+/Users/samuel.nechiforel/.cargo/registry/src/github.com-1ecc6299db9ec823/slice-deque-0.3.0/src/lib.rs:
+/Users/samuel.nechiforel/.cargo/registry/src/github.com-1ecc6299db9ec823/slice-deque-0.3.0/src/macros.rs:
+/Users/samuel.nechiforel/.cargo/registry/src/github.com-1ecc6299db9ec823/slice-deque-0.3.0/src/mirrored/mod.rs:
+/Users/samuel.nechiforel/.cargo/registry/src/github.com-1ecc6299db9ec823/slice-deque-0.3.0/src/mirrored/buffer.rs:
+/Users/samuel.nechiforel/.cargo/registry/src/github.com-1ecc6299db9ec823/slice-deque-0.3.0/src/mirrored/macos.rs:

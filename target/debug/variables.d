@@ -1,1 +1,1 @@
-/workspace/jupiter/target/debug/variables: /workspace/jupiter/src/lib.rs /workspace/jupiter/src/main.rs
+/Users/samuel.nechiforel/Documents/workHome/rust/variables/target/debug/variables: /Users/samuel.nechiforel/Documents/workHome/rust/variables/src/lib.rs /Users/samuel.nechiforel/Documents/workHome/rust/variables/src/main.rs

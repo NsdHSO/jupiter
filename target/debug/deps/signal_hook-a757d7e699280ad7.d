@@ -1,0 +1,9 @@
+/Users/samuel.nechiforel/Documents/workHome/rust/variables/target/debug/deps/signal_hook-a757d7e699280ad7.rmeta: /Users/samuel.nechiforel/.cargo/registry/src/github.com-1ecc6299db9ec823/signal-hook-0.1.17/src/lib.rs /Users/samuel.nechiforel/.cargo/registry/src/github.com-1ecc6299db9ec823/signal-hook-0.1.17/src/cleanup.rs /Users/samuel.nechiforel/.cargo/registry/src/github.com-1ecc6299db9ec823/signal-hook-0.1.17/src/flag.rs /Users/samuel.nechiforel/.cargo/registry/src/github.com-1ecc6299db9ec823/signal-hook-0.1.17/src/iterator.rs /Users/samuel.nechiforel/.cargo/registry/src/github.com-1ecc6299db9ec823/signal-hook-0.1.17/src/pipe.rs
+
+/Users/samuel.nechiforel/Documents/workHome/rust/variables/target/debug/deps/signal_hook-a757d7e699280ad7.d: /Users/samuel.nechiforel/.cargo/registry/src/github.com-1ecc6299db9ec823/signal-hook-0.1.17/src/lib.rs /Users/samuel.nechiforel/.cargo/registry/src/github.com-1ecc6299db9ec823/signal-hook-0.1.17/src/cleanup.rs /Users/samuel.nechiforel/.cargo/registry/src/github.com-1ecc6299db9ec823/signal-hook-0.1.17/src/flag.rs /Users/samuel.nechiforel/.cargo/registry/src/github.com-1ecc6299db9ec823/signal-hook-0.1.17/src/iterator.rs /Users/samuel.nechiforel/.cargo/registry/src/github.com-1ecc6299db9ec823/signal-hook-0.1.17/src/pipe.rs
+
+/Users/samuel.nechiforel/.cargo/registry/src/github.com-1ecc6299db9ec823/signal-hook-0.1.17/src/lib.rs:
+/Users/samuel.nechiforel/.cargo/registry/src/github.com-1ecc6299db9ec823/signal-hook-0.1.17/src/cleanup.rs:
+/Users/samuel.nechiforel/.cargo/registry/src/github.com-1ecc6299db9ec823/signal-hook-0.1.17/src/flag.rs:
+/Users/samuel.nechiforel/.cargo/registry/src/github.com-1ecc6299db9ec823/signal-hook-0.1.17/src/iterator.rs:
+/Users/samuel.nechiforel/.cargo/registry/src/github.com-1ecc6299db9ec823/signal-hook-0.1.17/src/pipe.rs:

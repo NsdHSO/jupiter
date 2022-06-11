@@ -1,0 +1,1 @@
+/Users/samuel.nechiforel/Documents/workHome/rust/variables/target/release/variables: /Users/samuel.nechiforel/Documents/workHome/rust/variables/src/lib.rs /Users/samuel.nechiforel/Documents/workHome/rust/variables/src/main.rs
